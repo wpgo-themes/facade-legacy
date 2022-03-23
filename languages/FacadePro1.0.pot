@@ -1,0 +1,1775 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Facade 1.0\n"
+"POT-Creation-Date: 2013-04-16 14:41-0000\n"
+"PO-Revision-Date: 2013-04-16 14:41-0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././404.php:20
+msgid "Error 404 - Page not found!"
+msgstr ""
+
+#: .././404.php:24
+msgid ""
+"Apologies, but the page you trying to reach does not exist, or has been "
+"moved. Why not try going back to the "
+msgstr ""
+
+#: .././404.php:24
+msgid "home page"
+msgstr ""
+
+#: .././404.php:24
+msgid ", using the menus, or searching for something more specific?"
+msgstr ""
+
+#: .././comments.php:8
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: .././comments.php:21 .././comments.php:32
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: .././comments.php:22 .././comments.php:33
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: .././contact-page.php:21 .././contact-page.php:62
+#, php-format
+msgid "Please enter a valid admin email in %s theme options."
+msgstr ""
+
+#: .././contact-page.php:27
+msgid "Please enter your name."
+msgstr ""
+
+#: .././contact-page.php:35
+msgid "Please enter your email address."
+msgstr ""
+
+#: .././contact-page.php:38
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: .././contact-page.php:46
+msgid "Please enter a message."
+msgstr ""
+
+#: .././contact-page.php:59
+msgid "Contact Form Submission from "
+msgstr ""
+
+#: .././contact-page.php:63
+msgid "Name:"
+msgstr ""
+
+#: .././contact-page.php:64
+msgid "E-mail:"
+msgstr ""
+
+#: .././contact-page.php:65
+msgid "Comments:"
+msgstr ""
+
+#: .././contact-page.php:68 .././contact-page.php:74
+msgid "From: "
+msgstr ""
+
+#: .././contact-page.php:68
+msgid "Reply-To: "
+msgstr ""
+
+#: .././contact-page.php:73
+msgid "You emailed "
+msgstr ""
+
+#: .././contact-page.php:110
+msgid "Your email was sent successfully. Thank you for contacting us."
+msgstr ""
+
+#: .././contact-page.php:114
+msgid "There was an error submitting the form."
+msgstr ""
+
+#: .././contact-page.php:123 .././api/classes/sidebar_commander.php:80
+#: .././api/classes/custom-post-types/support.php:127
+#: .././api/classes/custom-post-types/testimonials.php:124
+msgid "Name"
+msgstr ""
+
+#: .././contact-page.php:131
+msgid "Email"
+msgstr ""
+
+#: .././contact-page.php:139
+msgid "Message"
+msgstr ""
+
+#: .././contact-page.php:146
+msgid "Send yourself a copy of this email?"
+msgstr ""
+
+#: .././contact-page.php:148
+msgid "Send E-mail"
+msgstr ""
+
+#: .././functions.php:86
+msgid "Default"
+msgstr ""
+
+#: .././functions.php:87
+msgid "Red"
+msgstr ""
+
+#: .././functions.php:88
+msgid "Green"
+msgstr ""
+
+#: .././functions.php:89
+msgid "Dark"
+msgstr ""
+
+#: .././functions.php:90
+msgid "Yellow"
+msgstr ""
+
+#: .././functions.php:91
+msgid "Blue"
+msgstr ""
+
+#: .././loop-attachment.php:36 .././loop-author.php:38
+#: .././loop-single-post.php:30 .././loop.php:25 .././single-portfolio.php:36
+#: .././single-slide.php:36 .././taxonomy-portfolio_group.php:34
+#: .././taxonomy-slide_group.php:34 .././api/classes/template_parts.php:145
+#: .././api/classes/template_parts.php:188
+#: .././api/classes/template_parts.php:222
+#: .././api/classes/template_parts.php:309
+#: .././includes/classes/theme_specific_utility.php:87
+msgid "Leave a Comment"
+msgstr ""
+
+#: .././loop-attachment.php:36 .././loop-author.php:38
+#: .././loop-single-post.php:30 .././loop.php:25 .././single-portfolio.php:36
+#: .././single-slide.php:36 .././taxonomy-portfolio_group.php:34
+#: .././taxonomy-slide_group.php:34 .././api/classes/template_parts.php:145
+#: .././api/classes/template_parts.php:188
+#: .././api/classes/template_parts.php:222
+#: .././api/classes/template_parts.php:309
+#: .././includes/classes/theme_specific_utility.php:87
+msgid "1 Comment"
+msgstr ""
+
+#: .././loop-attachment.php:36 .././loop-author.php:38
+#: .././loop-single-post.php:30 .././loop.php:25 .././single-portfolio.php:36
+#: .././single-slide.php:36 .././taxonomy-portfolio_group.php:34
+#: .././taxonomy-slide_group.php:34 .././api/classes/template_parts.php:145
+#: .././api/classes/template_parts.php:188
+#: .././api/classes/template_parts.php:222
+#: .././api/classes/template_parts.php:309
+#: .././includes/classes/theme_specific_utility.php:87
+msgid "% Comments"
+msgstr ""
+
+#: .././loop-author.php:56 .././loop.php:43
+#: .././api/classes/widgets/widget-blog-style-recent-posts.php:81
+msgid "Read More"
+msgstr ""
+
+#: .././loop-author.php:67 .././loop.php:54
+msgid "&laquo; Older Posts"
+msgstr ""
+
+#: .././loop-author.php:68 .././loop.php:55
+msgid "Newer Posts &raquo;"
+msgstr ""
+
+#: .././portfolio-page.php:227 .././api/classes/template_parts.php:255
+msgid "Edit"
+msgstr ""
+
+#: .././api/classes/api.php:491
+msgid "Primary Navigation"
+msgstr ""
+
+#: .././api/classes/meta_boxes.php:40 .././api/classes/meta_boxes.php:41
+msgid "SEO Settings"
+msgstr ""
+
+#: .././api/classes/meta_boxes.php:63
+msgid "Post Display Options"
+msgstr ""
+
+#: .././api/classes/meta_boxes.php:64
+msgid "Page Display Options"
+msgstr ""
+
+#: .././api/classes/meta_boxes.php:67
+msgid "Portfolio Display Options"
+msgstr ""
+
+#: .././api/classes/meta_boxes.php:68
+msgid "Slide Display Options"
+msgstr ""
+
+#: .././api/classes/meta_boxes.php:75 .././api/classes/meta_boxes.php:76
+msgid "Sidebar Commander"
+msgstr ""
+
+#: .././api/classes/meta_boxes.php:88 .././api/classes/meta_boxes.php:91
+msgid "Content Templates"
+msgstr ""
+
+#: .././api/classes/meta_boxes.php:277
+msgid "Primary Sidebar"
+msgstr ""
+
+#: .././api/classes/meta_boxes.php:280
+msgid "Main Content Area"
+msgstr ""
+
+#: .././api/classes/meta_boxes.php:284
+msgid "Secondary Sidebar"
+msgstr ""
+
+#: .././api/classes/meta_boxes.php:294
+#, php-format
+msgid ""
+"%1$s%2$sAdd any widget area to the %3$sprimary%4$s sidebar of this %5$s by "
+"clicking the checkboxes. Drag and drop to dynamically reorder them. %6$sThe "
+"content for each widget area is controlled on the %7$sWidgets%8$s page."
+msgstr ""
+
+#: .././api/classes/meta_boxes.php:344
+#, php-format
+msgid ""
+"%1$s%2$sAdd any widget area to the %3$smain content%4$s area of this %5$s by "
+"clicking the checkboxes. Drag and drop to dynamically reorder them. %6$sThe "
+"content for each widget area is controlled on the %7$sWidgets%8$s page."
+msgstr ""
+
+#: .././api/classes/meta_boxes.php:393
+#, php-format
+msgid ""
+"%1$s%2$sAdd any widget area to the %3$ssecondary%4$s sidebar of this %5$s by "
+"clicking the checkboxes. Drag and drop to dynamically reorder them. %6$sThe "
+"content for each widget area is controlled on the %7$sWidgets%8$s page."
+msgstr ""
+
+#: .././api/classes/meta_boxes.php:505
+msgid "Column layout"
+msgstr ""
+
+#: .././api/classes/meta_boxes.php:507
+msgid "(Default theme setting)"
+msgstr ""
+
+#: .././api/classes/meta_boxes.php:508
+#: .././includes/admin/theme_options_form.php:67
+msgid "1-Column (full width)"
+msgstr ""
+
+#: .././api/classes/meta_boxes.php:509
+#: .././includes/admin/theme_options_form.php:68
+msgid "2-Column Sidebar Left"
+msgstr ""
+
+#: .././api/classes/meta_boxes.php:510
+#: .././includes/admin/theme_options_form.php:69
+msgid "2-Column Sidebar Right"
+msgstr ""
+
+#: .././api/classes/meta_boxes.php:511
+#: .././includes/admin/theme_options_form.php:70
+msgid "3-Column Sidebars Left"
+msgstr ""
+
+#: .././api/classes/meta_boxes.php:512
+#: .././includes/admin/theme_options_form.php:71
+msgid "3-Column Sidebars Right"
+msgstr ""
+
+#: .././api/classes/meta_boxes.php:513
+#: .././includes/admin/theme_options_form.php:72
+msgid "3-Column Content Center"
+msgstr ""
+
+#: .././api/classes/meta_boxes.php:545
+msgid "Portfolio group"
+msgstr ""
+
+#: .././api/classes/meta_boxes.php:566
+msgid "Portfolio image size"
+msgstr ""
+
+#: .././api/classes/meta_boxes.php:568
+msgid "Large"
+msgstr ""
+
+#: .././api/classes/meta_boxes.php:569
+msgid "Medium"
+msgstr ""
+
+#: .././api/classes/meta_boxes.php:570
+msgid "Small"
+msgstr ""
+
+#: .././api/classes/meta_boxes.php:648
+msgid "Page Title"
+msgstr ""
+
+#: .././api/classes/meta_boxes.php:652
+msgid "Content Description"
+msgstr ""
+
+#: .././api/classes/meta_boxes.php:656
+msgid "SEO Keywords"
+msgstr ""
+
+#: .././api/classes/shortcodes.php:137
+msgid ""
+"Please add your testimonial in-between opening and closing tags: e.g. &#91;"
+"testimonial&#93;Your testimonial here..&#91;/testimonial&#93;"
+msgstr ""
+
+#: .././api/classes/shortcodes.php:234
+msgid ""
+"Please add your content in-between opening and closing box tags: e.g. &#91;"
+"box&#93;Your content here..&#91;/box&#93;"
+msgstr ""
+
+#: .././api/classes/shortcodes.php:276
+msgid "Button Text"
+msgstr ""
+
+#: .././api/classes/shortcodes.php:293 .././api/classes/shortcodes.php:308
+#: .././api/classes/shortcodes.php:323 .././api/classes/shortcodes.php:338
+#: .././api/classes/shortcodes.php:353 .././api/classes/shortcodes.php:368
+#: .././api/classes/shortcodes.php:383 .././api/classes/shortcodes.php:399
+#: .././api/classes/shortcodes.php:415 .././api/classes/shortcodes.php:431
+#: .././api/classes/shortcodes.php:607
+msgid ""
+"No content specified. Add content in-between the opening and closing "
+"shortcode tags."
+msgstr ""
+
+#: .././api/classes/shortcodes.php:576
+msgid "Log In"
+msgstr ""
+
+#: .././api/classes/shortcodes.php:577
+msgid "Log Out"
+msgstr ""
+
+#: .././api/classes/sidebar_commander.php:42
+msgid "Add Custom Widget Area"
+msgstr ""
+
+#: .././api/classes/sidebar_commander.php:66
+msgid "Custom Widget Area"
+msgstr ""
+
+#: .././api/classes/sidebar_commander.php:81
+msgid "Options"
+msgstr ""
+
+#: .././api/classes/sidebar_commander.php:84
+msgid "Widget Area Type"
+msgstr ""
+
+#: .././api/classes/sidebar_commander.php:86
+#: .././api/classes/sidebar_commander.php:204
+msgid "Sidebar"
+msgstr ""
+
+#: .././api/classes/sidebar_commander.php:87
+#: .././api/classes/sidebar_commander.php:200
+msgid "Main Content"
+msgstr ""
+
+#: .././api/classes/sidebar_commander.php:126
+msgid "Add New"
+msgstr ""
+
+#: .././api/classes/sidebar_commander.php:197
+msgid "Before Content"
+msgstr ""
+
+#: .././api/classes/sidebar_commander.php:216
+msgid "custom widget area type."
+msgstr ""
+
+#: .././api/classes/template_parts.php:29
+#: .././api/classes/widgets/widget-theme-recent-posts.php:59
+msgid "Read more"
+msgstr ""
+
+#: .././api/classes/template_parts.php:30
+#: .././api/classes/template_parts.php:62
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#: .././api/classes/template_parts.php:31
+#: .././api/classes/template_parts.php:63
+msgid "Newer Entries &raquo;"
+msgstr ""
+
+#: .././api/classes/template_parts.php:61
+msgid "Read more..."
+msgstr ""
+
+#: .././api/classes/template_parts.php:278
+msgid "Search results..."
+msgstr ""
+
+#: .././api/classes/template_parts.php:322
+msgid "No search results found..."
+msgstr ""
+
+#: .././api/classes/template_parts.php:323
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords. Or, choose from the links below to navigate to another "
+"page."
+msgstr ""
+
+#: .././api/classes/template_parts.php:328
+msgid "Pages"
+msgstr ""
+
+#: .././api/classes/template_parts.php:335
+msgid "Post Categories"
+msgstr ""
+
+#: .././api/classes/theme_customizer.php:62
+msgid "Hide tagline"
+msgstr ""
+
+#: .././api/classes/theme_customizer.php:72
+msgid "Add Logo (replaces Site Title)"
+msgstr ""
+
+#: .././api/classes/theme_customizer.php:144
+#: .././api/classes/widgets/widget-color-scheme-switcher.php:75
+msgid "Color Scheme"
+msgstr ""
+
+#: .././api/classes/theme_customizer.php:177
+msgid "Custom Font"
+msgstr ""
+
+#: .././api/classes/theme_customizer.php:188
+msgid "Choose Font:"
+msgstr ""
+
+#: .././api/classes/utility.php:1039
+msgid ""
+"This widget area is currently empty. You can add widgets to this area via: "
+"Appearance => Widgets."
+msgstr ""
+
+#: .././api/classes/utility_callbacks.php:1051
+msgid "Customize Homepage Bar"
+msgstr ""
+
+#: .././api/classes/utility_callbacks.php:1052
+msgid "Add/edit the HTML used to display the homepage bar."
+msgstr ""
+
+#: .././api/classes/utility_callbacks.php:1180
+msgid "Reset footer links"
+msgstr ""
+
+#: .././api/classes/widgets.php:81
+msgid "Global"
+msgstr ""
+
+#: .././api/classes/widgets.php:83
+msgid ""
+"These widgets appear at the top of the primary sidebar on ALL posts/pages"
+msgstr ""
+
+#: .././api/classes/widgets.php:93
+msgid "Post: Primary"
+msgstr ""
+
+#: .././api/classes/widgets.php:95
+msgid "The primary single post, and main blog page, widget area"
+msgstr ""
+
+#: .././api/classes/widgets.php:105
+msgid "Post: Secondary"
+msgstr ""
+
+#: .././api/classes/widgets.php:107
+msgid ""
+"The secondary single post widget area. Only displayed on three-column post "
+"layouts."
+msgstr ""
+
+#: .././api/classes/widgets.php:117
+#: .././includes/sidebars/primary_page_generic_default_widgets.php:8
+msgid "Page: Primary"
+msgstr ""
+
+#: .././api/classes/widgets.php:119
+msgid "The primary single page widget area"
+msgstr ""
+
+#: .././api/classes/widgets.php:129
+msgid "Page: Secondary"
+msgstr ""
+
+#: .././api/classes/widgets.php:131
+msgid ""
+"The secondary single page widget area. Only displayed on three-column page "
+"layouts."
+msgstr ""
+
+#: .././api/classes/widgets.php:141
+msgid "Header"
+msgstr ""
+
+#: .././api/classes/widgets.php:143
+msgid "The header widget area"
+msgstr ""
+
+#: .././api/classes/widgets.php:153
+msgid "Footer"
+msgstr ""
+
+#: .././api/classes/widgets.php:155
+msgid "The footer widget area"
+msgstr ""
+
+#: .././api/classes/widgets.php:165
+msgid "Front Page: Main Content"
+msgstr ""
+
+#: .././api/classes/widgets.php:167
+msgid "The front page main content widget area"
+msgstr ""
+
+#: .././api/classes/widgets.php:177
+msgid "Front Page: Before Content"
+msgstr ""
+
+#: .././api/classes/widgets.php:179
+msgid ""
+"Front page full width widgets, displayed before main content or sidebars. "
+"The slider widget works great here!"
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:76
+msgid "Portfolios"
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:77
+#: .././api/classes/custom-post-types/portfolio.php:433
+msgid "Portfolio"
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:78
+msgid "Add New Item"
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:79
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:80
+#: .././api/classes/custom-post-types/portfolio.php:110
+msgid "Edit Portfolio"
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:81
+msgid "New Portfolio"
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:82
+msgid "View Portfolio"
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:83
+#: .././api/classes/custom-post-types/portfolio.php:115
+msgid "Search Portfolios"
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:84
+msgid "No Portfolios Found"
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:85
+msgid "No Portfolios Found In Trash"
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:108
+msgid "Portfolio Groups"
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:109
+msgid "Portfolio Group"
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:111
+msgid "Update Portfolio"
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:112
+#: .././api/classes/custom-post-types/slides.php:109
+#: .././api/classes/custom-post-types/testimonials.php:102
+msgid "Add New Group"
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:113
+msgid "New Portfolio Name"
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:114
+msgid "All Portfolios"
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:116
+#: .././api/classes/custom-post-types/slides.php:113
+#: .././api/classes/custom-post-types/support.php:109
+#: .././api/classes/custom-post-types/testimonials.php:106
+msgid "Parent Genre"
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:117
+#: .././api/classes/custom-post-types/slides.php:114
+#: .././api/classes/custom-post-types/support.php:110
+#: .././api/classes/custom-post-types/testimonials.php:107
+msgid "Parent Genre:"
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:134
+#: .././api/classes/custom-post-types/slides.php:131
+#: .././api/classes/widgets/widget-color-scheme-switcher.php:26
+#: .././api/classes/widgets/widget-info-box-font-icons.php:62
+#: .././api/classes/widgets/widget-info-box.php:65
+#: .././api/classes/widgets/widget-testimonial.php:23
+#: .././api/classes/widgets/widget-twitter-feed.php:28
+msgid "Title"
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:135
+#: .././api/classes/custom-post-types/slides.php:132
+#: .././api/classes/custom-post-types/support.php:128
+#: .././api/classes/custom-post-types/testimonials.php:125
+msgid "Author"
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:136
+#: .././api/classes/custom-post-types/slides.php:133
+msgid "Background Image"
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:137
+#: .././api/classes/custom-post-types/slides.php:134
+#: .././api/classes/custom-post-types/support.php:131
+#: .././api/classes/custom-post-types/testimonials.php:128
+msgid "Group"
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:138
+msgid "Portfolio ID"
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:139
+#: .././api/classes/custom-post-types/slides.php:136
+#: .././api/classes/custom-post-types/support.php:133
+#: .././api/classes/custom-post-types/testimonials.php:130
+msgid "Date"
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:212
+msgid "Portfolio Featured Image"
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:224
+msgid "Override Portfolio Links"
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:315
+#: .././api/classes/custom-post-types/portfolio.php:318
+msgid "Portfolio updated."
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:316
+#: .././api/classes/custom-post-types/slides.php:326
+#: .././api/classes/custom-post-types/support.php:298
+#: .././api/classes/custom-post-types/testimonials.php:325
+msgid "Custom field updated."
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:317
+#: .././api/classes/custom-post-types/slides.php:327
+#: .././api/classes/custom-post-types/support.php:299
+#: .././api/classes/custom-post-types/testimonials.php:326
+msgid "Custom field deleted."
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:320
+#, php-format
+msgid "Portfolio restored to revision from %s"
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:321
+msgid "Portfolio published."
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:322
+msgid "Portfolio saved."
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:323
+msgid "Portfolio submitted."
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:324
+#, php-format
+msgid "Portfolio scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:326
+#: .././api/classes/custom-post-types/slides.php:336
+#: .././api/classes/custom-post-types/support.php:308
+#: .././api/classes/custom-post-types/testimonials.php:335
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:327
+msgid "Portfolio draft updated."
+msgstr ""
+
+#: .././api/classes/custom-post-types/portfolio.php:435
+msgid "Portfolio widget area"
+msgstr ""
+
+#: .././api/classes/custom-post-types/slides.php:73
+msgid "Slides"
+msgstr ""
+
+#: .././api/classes/custom-post-types/slides.php:74
+#: .././api/classes/custom-post-types/slides.php:432
+#: .././api/classes/widgets/widget-content-slider.php:85
+#: .././api/classes/widgets/widget-portfolio-cpt-slider.php:90
+msgid "Slide"
+msgstr ""
+
+#: .././api/classes/custom-post-types/slides.php:75
+#: .././api/classes/custom-post-types/slides.php:76
+msgid "Add New Slide"
+msgstr ""
+
+#: .././api/classes/custom-post-types/slides.php:77
+#: .././api/classes/custom-post-types/slides.php:107
+msgid "Edit Slide"
+msgstr ""
+
+#: .././api/classes/custom-post-types/slides.php:78
+msgid "New Slide"
+msgstr ""
+
+#: .././api/classes/custom-post-types/slides.php:79
+msgid "View Slide"
+msgstr ""
+
+#: .././api/classes/custom-post-types/slides.php:80
+#: .././api/classes/custom-post-types/slides.php:112
+msgid "Search Slides"
+msgstr ""
+
+#: .././api/classes/custom-post-types/slides.php:81
+msgid "No Slides Found"
+msgstr ""
+
+#: .././api/classes/custom-post-types/slides.php:82
+msgid "No Slides Found In Trash"
+msgstr ""
+
+#: .././api/classes/custom-post-types/slides.php:105
+msgid "Slide Groups"
+msgstr ""
+
+#: .././api/classes/custom-post-types/slides.php:106
+msgid "Slide Group"
+msgstr ""
+
+#: .././api/classes/custom-post-types/slides.php:108
+msgid "Update Slide"
+msgstr ""
+
+#: .././api/classes/custom-post-types/slides.php:110
+msgid "New Slide Name"
+msgstr ""
+
+#: .././api/classes/custom-post-types/slides.php:111
+msgid "All Slides"
+msgstr ""
+
+#: .././api/classes/custom-post-types/slides.php:135
+msgid "Slide ID"
+msgstr ""
+
+#: .././api/classes/custom-post-types/slides.php:209
+msgid "Slide Featured Image"
+msgstr ""
+
+#: .././api/classes/custom-post-types/slides.php:219
+msgid "Slide Title and Links"
+msgstr ""
+
+#: .././api/classes/custom-post-types/slides.php:325
+#: .././api/classes/custom-post-types/slides.php:328
+msgid "Slide updated."
+msgstr ""
+
+#: .././api/classes/custom-post-types/slides.php:330
+#, php-format
+msgid "Slide restored to revision from %s"
+msgstr ""
+
+#: .././api/classes/custom-post-types/slides.php:331
+msgid "Slide published."
+msgstr ""
+
+#: .././api/classes/custom-post-types/slides.php:332
+msgid "Slide saved."
+msgstr ""
+
+#: .././api/classes/custom-post-types/slides.php:333
+msgid "Slide submitted."
+msgstr ""
+
+#: .././api/classes/custom-post-types/slides.php:334
+#, php-format
+msgid "Slide scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: .././api/classes/custom-post-types/slides.php:337
+msgid "Slide draft updated."
+msgstr ""
+
+#: .././api/classes/custom-post-types/slides.php:434
+msgid "Slide widget area"
+msgstr ""
+
+#: .././api/classes/custom-post-types/support.php:68
+msgid "Support Docs"
+msgstr ""
+
+#: .././api/classes/custom-post-types/support.php:69
+msgid "Support Document"
+msgstr ""
+
+#: .././api/classes/custom-post-types/support.php:70
+#: .././api/classes/custom-post-types/support.php:71
+msgid "Add New Document"
+msgstr ""
+
+#: .././api/classes/custom-post-types/support.php:72
+#: .././api/classes/custom-post-types/support.php:103
+msgid "Edit Support Doc"
+msgstr ""
+
+#: .././api/classes/custom-post-types/support.php:73
+msgid "New Support Doc"
+msgstr ""
+
+#: .././api/classes/custom-post-types/support.php:74
+msgid "View Support Doc"
+msgstr ""
+
+#: .././api/classes/custom-post-types/support.php:75
+#: .././api/classes/custom-post-types/support.php:108
+msgid "Search Support Docs"
+msgstr ""
+
+#: .././api/classes/custom-post-types/support.php:76
+msgid "No Support Documents Found"
+msgstr ""
+
+#: .././api/classes/custom-post-types/support.php:77
+msgid "No Support Documents Found In Trash"
+msgstr ""
+
+#: .././api/classes/custom-post-types/support.php:101
+msgid "Document Groups"
+msgstr ""
+
+#: .././api/classes/custom-post-types/support.php:102
+msgid "Document Group"
+msgstr ""
+
+#: .././api/classes/custom-post-types/support.php:104
+msgid "Update Support Doc"
+msgstr ""
+
+#: .././api/classes/custom-post-types/support.php:105
+msgid "Add New Support Doc Group"
+msgstr ""
+
+#: .././api/classes/custom-post-types/support.php:106
+msgid "New Support Doc Name"
+msgstr ""
+
+#: .././api/classes/custom-post-types/support.php:107
+msgid "All Support Docs"
+msgstr ""
+
+#: .././api/classes/custom-post-types/support.php:129
+#: .././api/classes/custom-post-types/testimonials.php:126
+msgid "Company"
+msgstr ""
+
+#: .././api/classes/custom-post-types/support.php:130
+#: .././api/classes/custom-post-types/testimonials.php:127
+msgid "Image Icon"
+msgstr ""
+
+#: .././api/classes/custom-post-types/support.php:132
+#: .././api/classes/custom-post-types/testimonials.php:129
+msgid "ID"
+msgstr ""
+
+#: .././api/classes/custom-post-types/support.php:214
+msgid "Support Document Image"
+msgstr ""
+
+#: .././api/classes/custom-post-types/support.php:224
+msgid "Support Document Details"
+msgstr ""
+
+#: .././api/classes/custom-post-types/support.php:297
+#: .././api/classes/custom-post-types/support.php:300
+msgid "Support updated."
+msgstr ""
+
+#: .././api/classes/custom-post-types/support.php:302
+#, php-format
+msgid "Support restored to revision from %s"
+msgstr ""
+
+#: .././api/classes/custom-post-types/support.php:303
+msgid "Support published."
+msgstr ""
+
+#: .././api/classes/custom-post-types/support.php:304
+msgid "Support saved."
+msgstr ""
+
+#: .././api/classes/custom-post-types/support.php:305
+msgid "Support submitted."
+msgstr ""
+
+#: .././api/classes/custom-post-types/support.php:306
+#, php-format
+msgid "Support scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: .././api/classes/custom-post-types/support.php:309
+msgid "Support draft updated."
+msgstr ""
+
+#: .././api/classes/custom-post-types/testimonials.php:66
+#: .././api/classes/widgets/widget-testimonial.php:13
+#: .././api/classes/widgets/widget-tml.php:11
+msgid "Testimonials"
+msgstr ""
+
+#: .././api/classes/custom-post-types/testimonials.php:67
+msgid "Testimonial"
+msgstr ""
+
+#: .././api/classes/custom-post-types/testimonials.php:68
+#: .././api/classes/custom-post-types/testimonials.php:69
+msgid "Add New Testimonial"
+msgstr ""
+
+#: .././api/classes/custom-post-types/testimonials.php:70
+#: .././api/classes/custom-post-types/testimonials.php:100
+msgid "Edit Testimonial"
+msgstr ""
+
+#: .././api/classes/custom-post-types/testimonials.php:71
+msgid "New Testimonial"
+msgstr ""
+
+#: .././api/classes/custom-post-types/testimonials.php:72
+msgid "View Testimonial"
+msgstr ""
+
+#: .././api/classes/custom-post-types/testimonials.php:73
+#: .././api/classes/custom-post-types/testimonials.php:105
+msgid "Search Testimonials"
+msgstr ""
+
+#: .././api/classes/custom-post-types/testimonials.php:74
+msgid "No Testimonials Found"
+msgstr ""
+
+#: .././api/classes/custom-post-types/testimonials.php:75
+msgid "No Testimonials Found In Trash"
+msgstr ""
+
+#: .././api/classes/custom-post-types/testimonials.php:98
+msgid "Testimonial Groups"
+msgstr ""
+
+#: .././api/classes/custom-post-types/testimonials.php:99
+msgid "Testimonial Group"
+msgstr ""
+
+#: .././api/classes/custom-post-types/testimonials.php:101
+msgid "Update Testimonial"
+msgstr ""
+
+#: .././api/classes/custom-post-types/testimonials.php:103
+msgid "New Testimonial Name"
+msgstr ""
+
+#: .././api/classes/custom-post-types/testimonials.php:104
+msgid "All Testimonials"
+msgstr ""
+
+#: .././api/classes/custom-post-types/testimonials.php:211
+msgid "Testimonial Image"
+msgstr ""
+
+#: .././api/classes/custom-post-types/testimonials.php:221
+msgid "Testimonial Details"
+msgstr ""
+
+#: .././api/classes/custom-post-types/testimonials.php:225
+msgid "Testimonial Shortcode"
+msgstr ""
+
+#: .././api/classes/custom-post-types/testimonials.php:324
+#: .././api/classes/custom-post-types/testimonials.php:327
+msgid "Testimonial updated."
+msgstr ""
+
+#: .././api/classes/custom-post-types/testimonials.php:329
+#, php-format
+msgid "Testimonial restored to revision from %s"
+msgstr ""
+
+#: .././api/classes/custom-post-types/testimonials.php:330
+msgid "Testimonial published."
+msgstr ""
+
+#: .././api/classes/custom-post-types/testimonials.php:331
+msgid "Testimonial saved."
+msgstr ""
+
+#: .././api/classes/custom-post-types/testimonials.php:332
+msgid "Testimonial submitted."
+msgstr ""
+
+#: .././api/classes/custom-post-types/testimonials.php:333
+#, php-format
+msgid "Testimonial scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: .././api/classes/custom-post-types/testimonials.php:336
+msgid "Testimonial draft updated."
+msgstr ""
+
+#: .././api/classes/widgets/widget-blog-style-recent-posts.php:10
+msgid ""
+"Recent posts similar to your main blog page. Add to the front page main "
+"content widget area."
+msgstr ""
+
+#: .././api/classes/widgets/widget-blog-style-recent-posts.php:11
+msgid "Blog Style Recent Posts"
+msgstr ""
+
+#: .././api/classes/widgets/widget-blog-style-recent-posts.php:25
+#: .././api/classes/widgets/widget-news-ticker.php:29
+#: .././api/classes/widgets/widget-theme-recent-posts.php:22
+#: .././api/classes/widgets/widget-tml.php:34
+msgid "Title:"
+msgstr ""
+
+#: .././api/classes/widgets/widget-blog-style-recent-posts.php:37
+#: .././api/classes/widgets/widget-news-ticker.php:35
+#: .././api/classes/widgets/widget-theme-recent-posts.php:27
+msgid "Number of posts to show:"
+msgstr ""
+
+#: .././api/classes/widgets/widget-blog-style-recent-posts.php:39
+msgid "Show Post Thumbnails?"
+msgstr ""
+
+#: .././api/classes/widgets/widget-carousel-slider.php:15
+msgid "A carousel slider displaying a strip of items."
+msgstr ""
+
+#: .././api/classes/widgets/widget-carousel-slider.php:17
+msgid "Carousel Slider"
+msgstr ""
+
+#: .././api/classes/widgets/widget-carousel-slider.php:54
+msgid ""
+"No portfolio groups found. New groups can be added via Portfolios -> "
+"Portfolio Groups."
+msgstr ""
+
+#: .././api/classes/widgets/widget-carousel-slider.php:59
+#: .././api/classes/widgets/widget-portfolio-cpt-slider.php:60
+msgid "Choose portfolio group:"
+msgstr ""
+
+#: .././api/classes/widgets/widget-carousel-slider.php:74
+#: .././api/classes/widgets/widget-content-slider.php:73
+#: .././api/classes/widgets/widget-portfolio-cpt-slider.php:75
+msgid "Maximum No. of slider items"
+msgstr ""
+
+#: .././api/classes/widgets/widget-carousel-slider.php:78
+#: .././api/classes/widgets/widget-content-slider.php:77
+#: .././api/classes/widgets/widget-portfolio-cpt-slider.php:79
+msgid "Random slide order"
+msgstr ""
+
+#: .././api/classes/widgets/widget-carousel-slider.php:79
+#: .././api/classes/widgets/widget-content-slider.php:78
+#: .././api/classes/widgets/widget-portfolio-cpt-slider.php:80
+msgid "Autoplay slides"
+msgstr ""
+
+#: .././api/classes/widgets/widget-carousel-slider.php:80
+#: .././api/classes/widgets/widget-content-slider.php:80
+#: .././api/classes/widgets/widget-portfolio-cpt-slider.php:85
+msgid "Loop Slides"
+msgstr ""
+
+#: .././api/classes/widgets/widget-carousel-slider.php:83
+#: .././api/classes/widgets/widget-content-slider.php:83
+#: .././api/classes/widgets/widget-portfolio-cpt-slider.php:88
+msgid "Transition settings"
+msgstr ""
+
+#: .././api/classes/widgets/widget-carousel-slider.php:84
+#: .././api/classes/widgets/widget-content-slider.php:88
+#: .././api/classes/widgets/widget-portfolio-cpt-slider.php:93
+msgid "Speed"
+msgstr ""
+
+#: .././api/classes/widgets/widget-carousel-slider.php:88
+#: .././api/classes/widgets/widget-content-slider.php:92
+#: .././api/classes/widgets/widget-portfolio-cpt-slider.php:97
+msgid "Delay between slides"
+msgstr ""
+
+#: .././api/classes/widgets/widget-color-scheme-switcher.php:14
+msgid "Allow your site visitors to change the theme color scheme dynamically!"
+msgstr ""
+
+#: .././api/classes/widgets/widget-color-scheme-switcher.php:15
+msgid "Color Switcher"
+msgstr ""
+
+#: .././api/classes/widgets/widget-color-scheme-switcher.php:21
+msgid "Change Color Scheme"
+msgstr ""
+
+#: .././api/classes/widgets/widget-color-scheme-switcher.php:21
+msgid "Try out a new color scheme. Select below to see an instant change!"
+msgstr ""
+
+#: .././api/classes/widgets/widget-color-scheme-switcher.php:27
+#: .././api/classes/widgets/widget-info-box-font-icons.php:67
+#: .././api/classes/widgets/widget-info-box.php:70
+msgid "Description"
+msgstr ""
+
+#: .././api/classes/widgets/widget-content-slider.php:15
+msgid "A flexible slider for displaying groups of slides."
+msgstr ""
+
+#: .././api/classes/widgets/widget-content-slider.php:17
+msgid "Content Slider"
+msgstr ""
+
+#: .././api/classes/widgets/widget-content-slider.php:53
+msgid ""
+"No slider groups found. New groups can be added via Slides -> Slide Groups."
+msgstr ""
+
+#: .././api/classes/widgets/widget-content-slider.php:58
+msgid "Choose slide group:"
+msgstr ""
+
+#: .././api/classes/widgets/widget-content-slider.php:79
+#: .././api/classes/widgets/widget-portfolio-cpt-slider.php:81
+msgid "Slide Smooth Height"
+msgstr ""
+
+#: .././api/classes/widgets/widget-content-slider.php:84
+#: .././api/classes/widgets/widget-portfolio-cpt-slider.php:89
+msgid "Effect"
+msgstr ""
+
+#: .././api/classes/widgets/widget-content-slider.php:86
+#: .././api/classes/widgets/widget-nivo-slider.php:172
+#: .././api/classes/widgets/widget-portfolio-cpt-slider.php:91
+msgid "Fade"
+msgstr ""
+
+#: .././api/classes/widgets/widget-info-box-font-icons.php:11
+msgid ""
+"Display phone number, plus twitter and facebook links using 'retina-ready' "
+"scalable icons."
+msgstr ""
+
+#: .././api/classes/widgets/widget-info-box-font-icons.php:12
+#: .././api/classes/widgets/widget-info-box.php:12
+msgid "Info Box"
+msgstr ""
+
+#: .././api/classes/widgets/widget-info-box-font-icons.php:72
+#: .././api/classes/widgets/widget-info-box.php:75
+msgid "Phone Number"
+msgstr ""
+
+#: .././api/classes/widgets/widget-info-box-font-icons.php:83
+msgid "Facebook URL"
+msgstr ""
+
+#: .././api/classes/widgets/widget-info-box-font-icons.php:88
+msgid "Twitter URL"
+msgstr ""
+
+#: .././api/classes/widgets/widget-info-box-font-icons.php:93
+msgid "YouTube URL"
+msgstr ""
+
+#: .././api/classes/widgets/widget-info-box-font-icons.php:98
+msgid "Flickr URL"
+msgstr ""
+
+#: .././api/classes/widgets/widget-info-box-font-icons.php:103
+msgid "Pinterest URL"
+msgstr ""
+
+#: .././api/classes/widgets/widget-info-box-font-icons.php:108
+#: .././api/classes/widgets/widget-info-box.php:111
+msgid "Google+ URL"
+msgstr ""
+
+#: .././api/classes/widgets/widget-info-box-font-icons.php:113
+msgid "LinkedIn URL"
+msgstr ""
+
+#: .././api/classes/widgets/widget-info-box-font-icons.php:118
+#: .././api/classes/widgets/widget-info-box.php:121
+msgid "RSS URL"
+msgstr ""
+
+#: .././api/classes/widgets/widget-info-box-font-icons.php:123
+#: .././api/classes/widgets/widget-info-box.php:139
+msgid "Show Search?"
+msgstr ""
+
+#: .././api/classes/widgets/widget-info-box.php:11
+msgid ""
+"Display phone number, plus twitter and facebook links using fixed resolution "
+"icons."
+msgstr ""
+
+#: .././api/classes/widgets/widget-info-box.php:86
+msgid "Facebook ID"
+msgstr ""
+
+#: .././api/classes/widgets/widget-info-box.php:91
+#: .././api/classes/widgets/widget-twitter-feed.php:29
+msgid "Twitter ID"
+msgstr ""
+
+#: .././api/classes/widgets/widget-info-box.php:96
+msgid "YouTube ID"
+msgstr ""
+
+#: .././api/classes/widgets/widget-info-box.php:101
+msgid "Flickr ID"
+msgstr ""
+
+#: .././api/classes/widgets/widget-info-box.php:106
+msgid "Pinterest ID"
+msgstr ""
+
+#: .././api/classes/widgets/widget-info-box.php:116
+msgid "Linked In URL"
+msgstr ""
+
+#: .././api/classes/widgets/widget-info-box.php:129
+msgid "Link URL"
+msgstr ""
+
+#: .././api/classes/widgets/widget-info-box.php:134
+msgid "Image URL"
+msgstr ""
+
+#: .././api/classes/widgets/widget-news-ticker.php:10
+msgid "A news ticker to display your most recent content."
+msgstr ""
+
+#: .././api/classes/widgets/widget-news-ticker.php:38
+msgid "Pause time between items:"
+msgstr ""
+
+#: .././api/classes/widgets/widget-nivo-slider.php:14
+msgid ""
+"A flexible slider control that displays links to featured post/pages. Add "
+"this to any widget area and it will dynamically resize!"
+msgstr ""
+
+#: .././api/classes/widgets/widget-nivo-slider.php:15
+msgid "Nivo Slider"
+msgstr ""
+
+#: .././api/classes/widgets/widget-nivo-slider.php:86
+#: .././api/classes/widgets/widget-nivo-slider.php:90
+#: .././api/classes/widgets/widget-nivo-slider.php:156
+msgid "Advanced Options"
+msgstr ""
+
+#: .././api/classes/widgets/widget-nivo-slider.php:140
+msgid "Choose Slider Content Type"
+msgstr ""
+
+#: .././api/classes/widgets/widget-nivo-slider.php:141
+msgid "Posts (category)"
+msgstr ""
+
+#: .././api/classes/widgets/widget-nivo-slider.php:142
+msgid "Pages (page parent)"
+msgstr ""
+
+#: .././api/classes/widgets/widget-nivo-slider.php:143
+msgid "Media Libray Image ID's"
+msgstr ""
+
+#: .././api/classes/widgets/widget-nivo-slider.php:144
+msgid "Individual Post/Page ID's"
+msgstr ""
+
+#: .././api/classes/widgets/widget-nivo-slider.php:146
+msgid "Post category"
+msgstr ""
+
+#: .././api/classes/widgets/widget-nivo-slider.php:148
+msgid "Page parent"
+msgstr ""
+
+#: .././api/classes/widgets/widget-nivo-slider.php:150
+msgid "Add media library image ID's:"
+msgstr ""
+
+#: .././api/classes/widgets/widget-nivo-slider.php:153
+msgid "Enter list of Post/Page ID's:"
+msgstr ""
+
+#: .././api/classes/widgets/widget-nivo-slider.php:161
+msgid "Transition Effect"
+msgstr ""
+
+#: .././api/classes/widgets/widget-nivo-slider.php:163
+msgid "Slice Down"
+msgstr ""
+
+#: .././api/classes/widgets/widget-nivo-slider.php:164
+msgid "Down Left"
+msgstr ""
+
+#: .././api/classes/widgets/widget-nivo-slider.php:165
+msgid "Down Right"
+msgstr ""
+
+#: .././api/classes/widgets/widget-nivo-slider.php:166
+msgid "Slice Up"
+msgstr ""
+
+#: .././api/classes/widgets/widget-nivo-slider.php:167
+msgid "Slice Up Left"
+msgstr ""
+
+#: .././api/classes/widgets/widget-nivo-slider.php:168
+msgid "Slice Up Right"
+msgstr ""
+
+#: .././api/classes/widgets/widget-nivo-slider.php:169
+msgid "Slice Up Down"
+msgstr ""
+
+#: .././api/classes/widgets/widget-nivo-slider.php:170
+msgid "Slice Up Down Left"
+msgstr ""
+
+#: .././api/classes/widgets/widget-nivo-slider.php:171
+msgid "Fold"
+msgstr ""
+
+#: .././api/classes/widgets/widget-nivo-slider.php:173
+msgid "Box Random"
+msgstr ""
+
+#: .././api/classes/widgets/widget-nivo-slider.php:174
+msgid "Box Rain"
+msgstr ""
+
+#: .././api/classes/widgets/widget-nivo-slider.php:175
+msgid "Box Rain Reverse"
+msgstr ""
+
+#: .././api/classes/widgets/widget-nivo-slider.php:176
+msgid "Box Rain Grow"
+msgstr ""
+
+#: .././api/classes/widgets/widget-nivo-slider.php:177
+msgid "Box Rain Grow Reverse"
+msgstr ""
+
+#: .././api/classes/widgets/widget-nivo-slider.php:178
+msgid "Wipe In Right"
+msgstr ""
+
+#: .././api/classes/widgets/widget-nivo-slider.php:179
+msgid "Slide In Left"
+msgstr ""
+
+#: .././api/classes/widgets/widget-nivo-slider.php:180
+msgid "Random"
+msgstr ""
+
+#: .././api/classes/widgets/widget-nivo-slider.php:186
+msgid "Featured Items (max)"
+msgstr ""
+
+#: .././api/classes/widgets/widget-nivo-slider.php:190
+msgid "Overlay Opacity"
+msgstr ""
+
+#: .././api/classes/widgets/widget-nivo-slider.php:194
+msgid "Transition Speed"
+msgstr ""
+
+#: .././api/classes/widgets/widget-nivo-slider.php:198
+msgid "Pause Time"
+msgstr ""
+
+#: .././api/classes/widgets/widget-portfolio-cpt-slider.php:15
+msgid "Slider to display groups of Portfolio items."
+msgstr ""
+
+#: .././api/classes/widgets/widget-portfolio-cpt-slider.php:17
+msgid "Portfolio Slider"
+msgstr ""
+
+#: .././api/classes/widgets/widget-portfolio-cpt-slider.php:55
+msgid ""
+"No slider groups found. New groups can be added via Slides -> Portfolio "
+"Groups."
+msgstr ""
+
+#: .././api/classes/widgets/widget-portfolio-cpt-slider.php:82
+msgid "Link featured image to post url"
+msgstr ""
+
+#: .././api/classes/widgets/widget-testimonial.php:11
+msgid ""
+"Showcase customer testimonials. e.g. [testimonial name=\"John Smith\" "
+"company=\"Acme Inc.\"]..[/testimonial]"
+msgstr ""
+
+#: .././api/classes/widgets/widget-testimonial.php:24
+msgid "Testimonial Shortcodes"
+msgstr ""
+
+#: .././api/classes/widgets/widget-theme-recent-posts.php:10
+msgid ""
+"An alternative way to display recent posts. The post title, excerpt, and "
+"read more link are shown."
+msgstr ""
+
+#: .././api/classes/widgets/widget-theme-recent-posts.php:11
+msgid "Recent Posts Excerpt"
+msgstr ""
+
+#: .././api/classes/widgets/widget-tml.php:10
+msgid "Display a list of testimonials by group."
+msgstr ""
+
+#: .././api/classes/widgets/widget-tml.php:28
+msgid ""
+"No testimonial groups found. New groups can be added via Testimonials -> "
+"Testimonial Groups."
+msgstr ""
+
+#: .././api/classes/widgets/widget-tml.php:38
+msgid "Description:"
+msgstr ""
+
+#: .././api/classes/widgets/widget-tml.php:42
+msgid "Display testimonial group:"
+msgstr ""
+
+#: .././api/classes/widgets/widget-tml.php:58
+msgid "Max number of testimonials"
+msgstr ""
+
+#: .././api/classes/widgets/widget-tml.php:62
+msgid "Show random testimonials?"
+msgstr ""
+
+#: .././api/classes/widgets/widget-twitter-feed.php:11
+msgid "Show your latest tweets."
+msgstr ""
+
+#: .././api/classes/widgets/widget-twitter-feed.php:12
+msgid "Twitter Feed"
+msgstr ""
+
+#: .././api/classes/widgets/widget-twitter-feed.php:30
+msgid "Number of Tweets"
+msgstr ""
+
+#: .././api/classes/widgets/widget-twitter-feed.php:31
+msgid "Show Timestamp?"
+msgstr ""
+
+#: .././api/classes/widgets/widget-twitter-feed.php:63
+#, php-format
+msgid "Please enter a Twitter ID in the %s Twitter Feed widget options."
+msgstr ""
+
+#: .././includes/admin/theme_options_form.php:31
+#, php-format
+msgid "%s theme options have been reset!"
+msgstr ""
+
+#: .././includes/admin/theme_options_form.php:39
+#, php-format
+msgid "%s theme options updated!"
+msgstr ""
+
+#: .././includes/admin/theme_options_form.php:60
+msgid "Custom Colors and Layout"
+msgstr ""
+
+#: .././includes/admin/theme_options_form.php:61
+msgid "Customize your site colors, and column layout for posts/pages."
+msgstr ""
+
+#: .././includes/admin/theme_options_form.php:73
+msgid "Default Page Layout"
+msgstr ""
+
+#: .././includes/admin/theme_options_form.php:74
+msgid "This can be overridden for individual posts/pages."
+msgstr ""
+
+#: .././includes/admin/theme_options_form.php:83
+msgid "Add a custom logo, change theme colors, fonts, and more"
+msgstr ""
+
+#: .././includes/admin/theme_options_form.php:91
+msgid "Custom Favicon"
+msgstr ""
+
+#: .././includes/admin/theme_options_form.php:92
+msgid "Add a custom favicon image url here."
+msgstr ""
+
+#: .././includes/admin/theme_options_form.php:99
+msgid ""
+"Specify a valid favicon url with extension .ico, .png, .jpg, or .gif. An "
+"image size of 16x16 pixels is recommended. Tip: use the media library to "
+"upload a favicon."
+msgstr ""
+
+#: .././includes/admin/theme_options_form.php:106
+msgid "Current active favicon image"
+msgstr ""
+
+#: .././includes/admin/theme_options_form.php:118
+msgid "Miscellaneous Options"
+msgstr ""
+
+#: .././includes/admin/theme_options_form.php:119
+msgid "Various options that affect the theme appearance."
+msgstr ""
+
+#: .././includes/admin/theme_options_form.php:133
+msgid "General Settings"
+msgstr ""
+
+#: .././includes/admin/theme_options_form.php:134
+#: .././includes/admin/theme_options_form.php:140
+msgid "The contact form page template sends emails to this address."
+msgstr ""
+
+#: .././includes/admin/theme_options_form.php:139
+msgid "Admin E-mail:"
+msgstr ""
+
+#: .././includes/admin/theme_options_form.php:152
+msgid "Save Changes"
+msgstr ""
+
+#: .././includes/classes/theme_specific_utility.php:181
+msgid "Colors"
+msgstr ""
+
+#: .././includes/classes/theme_specific_utility.php:183
+msgid "Header/Footer Text Color"
+msgstr ""
+
+#: .././includes/classes/theme_specific_utility.php:188
+msgid "Top Nav/Drop Down Background"
+msgstr ""
+
+#: .././includes/classes/theme_specific_utility.php:193
+msgid "Header Link Color"
+msgstr ""
+
+#: .././includes/classes/theme_specific_utility.php:198
+msgid "Header Link Hover Color"
+msgstr ""
+
+#: .././includes/classes/theme_specific_utility.php:203
+msgid "Headings Text Color"
+msgstr ""
+
+#: .././includes/classes/theme_specific_utility.php:208
+msgid "Content Text Color"
+msgstr ""
+
+#: .././includes/classes/theme_specific_utility.php:213
+msgid "Content Link Color"
+msgstr ""
+
+#: .././includes/classes/theme_specific_utility.php:218
+msgid "Content Link Hover Color"
+msgstr ""
+
+#: .././includes/classes/theme_specific_utility.php:223
+msgid "Content Background Color"
+msgstr ""
+
+#: .././includes/classes/theme_specific_utility.php:228
+msgid "Borders/Lines"
+msgstr ""
+
+#: .././includes/classes/theme_specific_utility.php:233
+msgid "Button Color"
+msgstr ""
+
+#: .././includes/classes/theme_specific_utility.php:238
+msgid "Button Hover Color"
+msgstr ""
+
+#: .././includes/classes/theme_specific_utility_callbacks.php:135
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: .././includes/classes/theme_specific_utility_callbacks.php:138
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: .././includes/classes/theme_specific_utility_callbacks.php:145
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: .././includes/classes/theme_specific_utility_callbacks.php:145
+#: .././includes/classes/theme_specific_utility_callbacks.php:163
+msgid "(Edit)"
+msgstr ""
+
+#: .././includes/classes/theme_specific_utility_callbacks.php:163
+msgid "Pingback:"
+msgstr ""
+
+#: .././includes/misc/breadcrumb-trail.php:65
+msgid "Home"
+msgstr ""
+
+#: .././includes/misc/breadcrumb-trail.php:313
+msgid "g:i a"
+msgstr ""
+
+#: .././includes/misc/breadcrumb-trail.php:316
+#, php-format
+msgid "Minute %1$s"
+msgstr ""
+
+#: .././includes/misc/breadcrumb-trail.php:316
+msgid "i"
+msgstr ""
+
+#: .././includes/misc/breadcrumb-trail.php:319
+msgid "g a"
+msgstr ""
+
+#: .././includes/misc/breadcrumb-trail.php:330
+#: .././includes/misc/breadcrumb-trail.php:336
+#: .././includes/misc/breadcrumb-trail.php:341
+#: .././includes/misc/breadcrumb-trail.php:346
+#: .././includes/misc/breadcrumb-trail.php:411
+msgid "Y"
+msgstr ""
+
+#: .././includes/misc/breadcrumb-trail.php:331
+#: .././includes/misc/breadcrumb-trail.php:342
+#: .././includes/misc/breadcrumb-trail.php:415
+msgid "F"
+msgstr ""
+
+#: .././includes/misc/breadcrumb-trail.php:332
+#: .././includes/misc/breadcrumb-trail.php:419
+msgid "d"
+msgstr ""
+
+#: .././includes/misc/breadcrumb-trail.php:337
+#, php-format
+msgid "Week %1$s"
+msgstr ""
+
+#: .././includes/misc/breadcrumb-trail.php:353
+#, php-format
+msgid "Search results for &quot;%1$s&quot;"
+msgstr ""
+
+#: .././includes/misc/breadcrumb-trail.php:357
+msgid "404 Not Found"
+msgstr ""
+
+#: .././includes/sidebars/front_page_primary_default_widgets.php:30
+msgid "[testimonial name=\"Scott Bolinger\" company=\"PressCoders.com\"]"
+msgstr ""
+
+#: .././includes/sidebars/primary_page_generic_default_widgets.php:17
+#: .././includes/sidebars/primary_post_generic_default_widgets.php:17
+msgid "Archives"
+msgstr ""
+
+#: .././includes/sidebars/primary_page_generic_default_widgets.php:24
+#: .././includes/sidebars/primary_post_generic_default_widgets.php:24
+msgid "Meta"
+msgstr ""
